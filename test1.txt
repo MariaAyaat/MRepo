@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 46C3-73EB
-
- Directory of C:\Users\AYAAT\Desktop\VScode
-
-08/24/2024  01:18 AM    <DIR>          .
-08/24/2024  01:18 AM    <DIR>          ..
-08/24/2024  01:18 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  66,558,099,456 bytes free
+change 1
